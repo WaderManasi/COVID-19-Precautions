@@ -1,7 +1,13 @@
+.footer{
+    background-color: #ccc;
+    margin-bottom: 0px;
+    padding: 20px;
+    font-size: large;
+}
 body,html{
     height: 100%;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     background: black;
     font-family: Encode Sans Expanded,sans-serif;
 }
