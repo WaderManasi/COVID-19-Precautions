@@ -4,4 +4,5 @@
 
 ## Single Page Application designed with 🌟Pure CSS🌟
 
-### Volume on!<img src="https://img.icons8.com/cute-clipart/64/000000/low-volume.png"/> 
+### Volume on!
+<img src="https://img.icons8.com/cute-clipart/64/000000/low-volume.png"/> 
